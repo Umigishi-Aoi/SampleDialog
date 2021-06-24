@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleDialog</string>
+    <string name="text_view">Hello World</string>
+    <string name="dialog_title">Sample</string>
+    <string name="dialog_message">ダイアログのサンプルです</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_neutral">Neutral</string>
+    <string name="comment_ok">OKがタップされました</string>
+    <string name="comment_cancel">Cancelがタップされました</string>
+    <string name="comment_neutral">Neutralがタップされました</string>
+    <string name="button">ダイアログを表示</string>
+</resources>
